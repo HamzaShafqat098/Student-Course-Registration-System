@@ -1,4 +1,3 @@
-package crs;
 
 public abstract class User {
 	
@@ -41,6 +40,26 @@ public abstract class User {
 	}
 	public void setPassword(String psw) {
 		this.password = psw;
+	}
+
+	public void firstName() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void lastName() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void username() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void password() {
+		// TODO Auto-generated method stub
+		
 	}
 }
 

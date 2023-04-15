@@ -1,4 +1,3 @@
-package crs;
 import java.util.Scanner;
 
 public class Login extends User{
